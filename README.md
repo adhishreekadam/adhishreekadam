@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Adhishree 👋
+
+## 👩🏻‍💻 About Me:
+- I am an undergraduate student at the Georgia Institute of Technology pursuing a BS in Computer Science with a concentration in Intelligence and Modeling & Simulation.
+- I have interests in Software Development and Data Science
+
+## 🤝 Let's Connect:
+[<img src="linkedin.svg">](https://www.linkedin.com/in/adhishree-kadam/)
+
+
 
 <!--
 **adhishreekadam/adhishreekadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
