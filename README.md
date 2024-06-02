@@ -7,8 +7,8 @@
 
 
 ## 🤝 Let's Connect:
-[<img src="linkedin.svg">](https://www.linkedin.com/in/adhishree-kadam/)
-[<img src="gmail.svg">](mailto:kadam.adhishree@gmail.com)
+[<img src="linkedin.svg" height="30" width="40">](https://www.linkedin.com/in/adhishree-kadam/)
+[<img src="gmail.svg" height="30" width="40">](mailto:kadam.adhishree@gmail.com)
 
 
 
