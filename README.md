@@ -1,9 +1,15 @@
 # Hi there, I'm Adhishree 👋
 
 
-## 👩🏻‍💻 About Me:
+## 🙋🏻‍♀️ About Me:
 - I am an undergraduate student at the Georgia Institute of Technology pursuing a BS in Computer Science with a concentration in Intelligence and Modeling & Simulation.
 - I have interests in Software Development and Data Science
+
+## 💻 Tech Stack:
+- ⌨️ Java | Python | C | HTML/CSS | PHP | Bash | JavaScript
+- 📚 React | NumPy | Matplotlib
+- 🛠 Docker | MySQL | Git | Android Studio | VS Code | IntelliJ/Eclipse
+- ⚙️ MacOS | Windows | Linux
 
 
 ## 🤝 Let's Connect!
