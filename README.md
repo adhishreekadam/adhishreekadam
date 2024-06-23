@@ -2,7 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 - I am an undergraduate student at the Georgia Institute of Technology pursuing a BS in Computer Science with a concentration in Intelligence and Modeling & Simulation.
-- I have interests in Software Development and Data Science
+- I am interested in Software Development and Data Science
+- Currently exploring new technologies and learning new skills
 
 ## 📱 Technology
 
