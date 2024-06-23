@@ -15,7 +15,7 @@
 
 ![Adhishree's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhishreekadam&show=prs_merged&hide=stars&show_icons=true&theme=shadow_blue)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhishreekadam&theme=shadow_blue"  alt="adhishreekadam" /></p>
 
 ## 🤝 Let's Connect!
 [<img src="linkedin.svg" height="30" width="40">](https://www.linkedin.com/in/adhishreekadam/)
