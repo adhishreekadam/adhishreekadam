@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00779A&size=35&lines=Hi+there,+I'm+Adhishree!)](https://git.io/typing-svg)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
+## 👩🏻‍💻 About Me
 - I am an undergraduate student at the Georgia Institute of Technology pursuing a BS in Computer Science with a concentration in Intelligence and Modeling & Simulation.
 - I have interests in Software Development and Data Science
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Technology </h2>
+## 📱 Technology
 
 - 💻 Java | Python | C | HTML/CSS | PHP | Bash | JavaScript
 - 📚 React | NumPy | Matplotlib
