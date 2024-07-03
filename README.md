@@ -14,6 +14,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhishreekadam&hide_progress=true&theme=shadow_blue)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhishreekadam&theme=shadow_blue&hide=commits,stars&show=prs_merged&show_icons=true)](https://github.com/adhishreekadam/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhishreekadam&theme=shadow_blue"  alt="adhishreekadam" /></p>
 
 ## 🤝 Let's Connect!
