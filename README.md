@@ -7,9 +7,9 @@
 
 ## 📱 Technology
 
-- 💻 Java | Python | C | HTML/CSS | PHP | Bash | JavaScript | SQL
+- 💻 Java | Python | C | HTML/CSS | PHP | Bash Scripting | JavaScript | SQL
 - 📚 React | NumPy | Matplotlib
-- 🛠️ Docker | MySQL | Git | Android Studio | VS Code | IntelliJ/Eclipse
+- 🛠️ Docker | Kubernetes | MySQL | Git | Android Studio | VS Code | IntelliJ/Eclipse
 - ⚙️ MacOS | Windows | Linux
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhishreekadam&hide_progress=true&theme=shadow_blue)
