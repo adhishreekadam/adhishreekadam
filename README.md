@@ -7,7 +7,7 @@
 
 ## 📱 Technology
 
-- 💻 Java | Python | C | HTML/CSS | PHP | Bash Scripting | JavaScript | SQL
+- 💻 Java | Python | C | HTML/CSS | PHP | Shell Scripting | JavaScript | SQL
 - 📚 React | NumPy | Matplotlib
 - 🛠️ Docker | Kubernetes | MySQL | Git | Android Studio | VS Code | IntelliJ/Eclipse
 - ⚙️ MacOS | Windows | Linux
