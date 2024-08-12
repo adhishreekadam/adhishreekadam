@@ -23,10 +23,10 @@
 <a href="mailto:kadam.adhishree@gmail.com">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="40" height="40">
 </a>
-<a href="https://www.linkedin.com/in/adhishreekadam/">
+<a href="https://www.linkedin.com/in/adhishreekadam/" target="_blank">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="40" height="40">
 </a>
-<a href="https://adhishree.netlify.app/">
+<a href="https://adhishree.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/suitcase.svg" width="40" height="40">
 </a>
 
