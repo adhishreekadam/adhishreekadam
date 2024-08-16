@@ -1,5 +1,5 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00779A&size=35&lines=Hi+there,+I'm+Adhishree!)](https://git.io/typing-svg)-->
-# Hello world, I'm Adhishree 👋
+# Hi there, I'm Adhishree 👋
 
 ## 👩🏻‍💻 About Me
 - I am an undergraduate student at the Georgia Institute of Technology pursuing a BS in Computer Science with a concentration in Intelligence and Modeling & Simulation.
